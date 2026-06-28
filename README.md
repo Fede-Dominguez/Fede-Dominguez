@@ -39,3 +39,4 @@ Más cosas en mis [repositorios](https://github.com/Fede-Dominguez?tab=repositor
 ### Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federicod23)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fededominguez.ar@gmail.com)
