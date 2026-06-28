@@ -4,7 +4,6 @@ Backend Developer enfocado en el ecosistema **.NET (C#)** y arquitecturas backen
 
 - Construyo y mantengo soluciones robustas: **monolitos y microservicios** con **APIs REST a medida**.
 - Gestiono el ciclo de vida y los despliegues con **Azure DevOps** y administración de entornos **Linux**.
-- Complemento el backend con **ReactJS** para entender el producto de punta a punta.
 - Capacidad analítica para leer bases de código complejas, **diagnosticar incidentes** y hacer troubleshooting efectivo.
 - Busco **código limpio y sostenible**, que la tecnología resuelva problemas de negocio reales sin complejidad innecesaria.
 
