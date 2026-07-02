@@ -32,7 +32,6 @@ Más cosas en mis [repositorios](https://github.com/Fede-Dominguez?tab=repositor
 ### GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fede-Dominguez&show_icons=true&hide_border=true&theme=tokyonight" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fede-Dominguez&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
 </p>
 
